@@ -1,0 +1,10 @@
+{
+  "autoload": {
+    "psr-4": {
+      "src\\": "src/"
+    }
+  },
+  "require": {
+    "intervention/image": "^2.5"
+  }
+}
